@@ -1,3 +1,7 @@
+
+# Fait par : Jemima, Julia, Mehdi, Erwann, Ashley
+
+
 # Agent IA pour Engie  
 
 ## 📌 Description du projet  
