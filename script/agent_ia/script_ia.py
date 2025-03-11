@@ -17,7 +17,10 @@ Pour chaque tweet, tu dois :
 1. Identifier la catégorie du problème.
 2. Donner un score d'inconfort entre 0 et 100%.
 3. Indiquer si le problème est urgent (oui ou non).
-4. Analyser le sentiment du tweet (Positif, Neutre, Négatif).
+4. Analyser le sentiment du tweet (Positif, Neutre, Négatif). Le sentiment peut être :
+    - Positif : Lorsque le client exprime une satisfaction ou une solution positive.
+    - Neutre : Lorsque le tweet ne montre ni grande frustration ni grande satisfaction, mais simplement une situation.
+    - Négatif : Lorsque le client exprime clairement un mécontentement ou un problème grave.
 
 **Format de sortie attendu :**
 {
